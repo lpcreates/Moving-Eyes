@@ -4,7 +4,7 @@ This is a project that uses HTML, CSS, and JavaScript to move the DOM element "e
 In future updates, I plan to include "blinking" when the mouse is clicked or when the mouse moves into the iris. 
 <br>
 <br>
-Create new folder on your local system. Copy index.html, eyes.js and styles.css to the folder. Double click or right click/open index.html
+How to Run: Create new folder on your local system. Copy index.html, eyes.js and styles.css to the folder. Double click or right click/open index.html
 <br>
 <br>
 MIT License
